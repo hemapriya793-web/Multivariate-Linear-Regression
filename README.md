@@ -1,4 +1,4 @@
-<img width="626" height="907" alt="image" src="https://github.com/user-attachments/assets/40df77d1-be8e-43d5-aefc-a9a3ad7d7392" /># Implementation of Multivariate Linear Regression
+
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
